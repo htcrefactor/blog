@@ -1,10 +1,12 @@
-Headin
+Heading
 # H1
 ## H2
 ### H3
 
 Bold	**bold text**
+
 Italic	*italicized text*
+
 Blockquote	> blockquote
 
 Ordered List
@@ -19,12 +21,17 @@ Unordered List
 
 Code	`code`
 
-Horizontal Rule	---
+Horizontal Rule	
+
+---
+
 
 Link	[link](https://www.google.com)
-Image	![alt text](markdown.jpg)
+
+Image	![alt text](markdown-mark-white.svg)
 
 Table
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -40,7 +47,9 @@ Fenced Code Block
 ```
 
 Footnote
+
 Here's a sentence with a footnote. [^1]
+
 [^1]: This is the footnote.
 
 Heading ID
