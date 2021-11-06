@@ -1,5 +1,6 @@
-# blog
+# Blog
 
-## posts
-- [post-1](./posts/post-1.md)
+## Languages
 
+- [한국어](./ko/index.md)
+- [English](./en/index.md)
