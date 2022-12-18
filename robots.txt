@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hyungtaik.tk/sitemap.xml.gz
+Sitemap: https://blog.glhf.cc/sitemap.xml.gz
